@@ -36,9 +36,5 @@ npm run build
 ```
 
 ## Live Demo
+https://funngro-redesign-kappa.vercel.app/
 
-Add your Vercel deployment link here.
-
-## Author
-
-Op Lilhare
